@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = 10.55.97.18:/data/repositories/1/nw/14/8d/e4/1144022984/1279093268.git
+	fetch = +refs/*:refs/*
+	mirror = true
